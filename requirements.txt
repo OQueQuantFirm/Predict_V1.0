@@ -1,0 +1,7 @@
+ccxt
+numpy
+scikit-learn
+finta
+python-dotenv
+scikit-optimize
+pandas
